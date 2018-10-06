@@ -27,14 +27,8 @@
     "enzyme": "3.0.0",
     "enzyme-adapter-react-16": "1.0.0",
     "enzyme-to-json": "3.0.1",
-<<<<<<< HEAD
-<<<<<<< HEAD
     "express": "4.15.4",
     "extract-text-webpack-plugin": "3.0.0",
-=======
->>>>>>> parent of 56074ad... setup production webpack build
-=======
->>>>>>> parent of 56074ad... setup production webpack build
     "jest": "20.0.4",
     "live-server": "^1.2.0",
     "moment": "2.18.1",
